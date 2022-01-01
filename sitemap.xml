@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>http://docs.codewizardshq.com/</loc>
+         <lastmod>2022-01-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://docs.codewizardshq.com/javascript/javascript-language/</loc>
+         <lastmod>2022-01-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://docs.codewizardshq.com/javascript/web-apis/</loc>
+         <lastmod>2022-01-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://docs.codewizardshq.com/python/python-language/</loc>
+         <lastmod>2022-01-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://docs.codewizardshq.com/python/wizardlib/</loc>
+         <lastmod>2022-01-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
